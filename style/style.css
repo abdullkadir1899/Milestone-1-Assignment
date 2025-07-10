@@ -57,3 +57,23 @@ nav div h1{
     color: black;
     margin-bottom: 30px;
 }
+
+/* end header */
+
+.section-1{
+    width: 1300px;
+    margin: 150px auto;
+}
+
+.section-1 h1{
+    font-size: 50px;
+    font-weight: 800;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.section-1 p{
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 30px;
+}
