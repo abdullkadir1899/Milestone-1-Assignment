@@ -77,3 +77,37 @@ nav div h1{
     color: gray;
     margin-bottom: 30px;
 }
+
+/* end section 1 */
+
+.section-2{
+    width: 1300px;
+    margin: 150px auto;
+    background-color: #4d47ff5f;
+    height: 310px;
+    border-radius: 15px;
+}
+
+.section-2 .section-2-div-1 h1{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.section-2-div-2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+    margin-top: 30px;
+
+}
+
+.section-2-div-2 h1{
+    font-size: 70px;
+    font-weight: 800;
+    margin-bottom:10px ;
+    color: rgba(0, 0, 255, 0.671);
+}
+
+/* end the section-2 */
